@@ -12,10 +12,10 @@ inLanguage: ca
 app_links: []
 isBasedOnUrl: 'http://sanfrancisco.giants.mlb.com/index.jsp?c_id=sf'
 title: Official San Francisco Giants Website
-datePublished: '2016-05-27T21:41:43.041Z'
-dateModified: '2016-05-27T21:41:42.685Z'
-starred: false
+datePublished: '2016-05-27T21:55:17.867Z'
+dateModified: '2016-05-27T21:55:17.289Z'
 sourcePath: _posts/2016-05-27-official-san-francisco-giants-website.md
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
