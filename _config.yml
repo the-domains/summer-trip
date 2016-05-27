@@ -1,14 +1,14 @@
-layout_spectrum: 0.41203207708895206
-typography_spectrum: 0.7824671606067568
+layout_spectrum: 0.6939090376254171
+typography_spectrum: 0.17990372399799526
 color:
-  brandStrength: 0.7850145327392966
-  lightness: 0.8312957684975117
-  saturation: 0.2587209353223443
-  rhythmicContrast: 0.8199294861406088
+  brandStrength: 0.80816037254408
+  lightness: 0.01643416634760797
+  saturation: 0.522245409199968
+  rhythmicContrast: 0.8484950037673116
   brandColors:
-    - '#E6E2AF'
-    - '#A7A37E'
-    - '#EFECCA'
-    - '#046380'
-    - '#002F2F'
+    - '#16193B'
+    - '#35478C'
+    - '#4E7AC7'
+    - '#7FB2F0'
+    - '#ADD5F7'
 name: summer trip
